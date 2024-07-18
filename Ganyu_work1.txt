@@ -1,4 +1,4 @@
 name:甘雨
-Profession(職業):弓箭手
+Profession(職業):仙人
 頭髮:藍色波浪
 年齡:32
